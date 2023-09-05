@@ -51,7 +51,7 @@ docker import - pathogen-identification < ipathogen-20230626.tar
 docker image ls | grep ipathogen
 ```
 
-![img](file:///C:/Users/Sakura/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![img](https://github.com/cdcliph/ipathogen/blob/master/png/2.1.png)
 
 # 3.   Start the image as a container
 
