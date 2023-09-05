@@ -69,7 +69,7 @@ The container name,can be modified customizably, if modified, you need to modify
 dockerps
 ```
 
-![img](file:///C:/Users/Sakura/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![img](https://github.com/cdcliph/ipathogen/blob/master/png/3.1.png)
 
 # 4.   Run the pathogen identification process
 
