@@ -120,25 +120,6 @@ The paths of the commands in the use case are all relative paths, omitting the p
 ## 5.1 Locate the folder result _files in the set -o output folder path
 
 
-
-centrifuge_report.tsv 	            Corresponds to the centrifuge report
-
-viral_trace_analyze_ref.blast    Corresponding virus trace analysis BLAST comparison results
-
-viral_trace_analyze_result.csv  Corresponding to the statistical results of virus trace analysis
-
-viral_iteration_identities.csv     Corresponding to the virus iterative assembly identity results
-
-*type_info.tsv                             MLST library typing information corresponding to the corresponding species
-
-*taxonomy_info.tsv                   The 16s library level information corresponding to the corresponding species
-
-*matched_id..txt                          Corresponds to the corresponding speciesvfdb, caRD library comparison   
-
-​                            information
-
-
-
 | File name                      | Content                                                      |
 | ------------------------------ | ------------------------------------------------------------ |
 | centrifuge_report.tsv          | Corresponds to the centrifuge report                         |
